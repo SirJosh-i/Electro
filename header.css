@@ -1,0 +1,96 @@
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover{
+    color:cornflowerblue;
+    transition-duration: 1s;
+    transition-delay: 0.01s;
+}
+
+
+
+
+body{
+    margin: 0;
+}
+
+.topnav{
+    background-color: black;
+    padding: 7px;
+   
+                                                
+}
+
+#logo{
+    color: white;
+    margin-left: 290;
+    font-size: 20;
+}
+
+.header_ul{
+    list-style-type: none;
+    margin: 30;
+    float: right;
+}
+
+li{
+    display: inline;
+    margin-right: 40;
+    font-size: 18;
+}
+
+
+.img-icon{
+    background-image:url(profile.png);
+    width: 10;
+    height: 10;
+}
+
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  
+  .image {
+    width: 44.6%;
+    padding-left: 80px;
+    
+    
+  }
+  
+  .text {
+    font-family: 'Nimbus Sans L 300', sans-serif;
+    font-size: 30px;
+    padding-left: 290px;
+    
+  }
+
+
+
+  .content_ul{
+    list-style-type: none;
+    padding: 15px 0.1px 10px 30px;
+    text-align: center;
+    background-color: black;
+    
+  }
+
+  .text_ul{
+    font-size: 15;
+  }
+
+
+  .text1 {
+    font-family: 'Nimbus Sans L 300', sans-serif;
+    font-size: 30px;
+   
+    
+  }
+
